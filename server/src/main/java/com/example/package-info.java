@@ -1,1 +1,1 @@
-pacakage com.example
+package com.example
